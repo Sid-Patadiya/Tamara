@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tamara.tech",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 81,
+      "versionName": "1.8.5",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

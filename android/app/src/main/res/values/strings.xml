@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TAMARA</string>
+    <string name="facebook_app_id">870296544014137</string>
+    <string name="fb_login_protocol_scheme">fb870296544014137</string>
+    <string name="facebook_client_token">c5647c44f0167303ee3340e5271cad6d</string>
+    <string name="server_client_id">294430602405-i4qgd9k76hrhqkac4smh1oqtk8uaidc0.apps.googleusercontent.com</string>
+</resources>

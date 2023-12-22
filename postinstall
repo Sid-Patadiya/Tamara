@@ -1,0 +1,8 @@
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    react-native setup-ios-permissions
+    cd ios 
+    pod install 
+    cd ..
+fi
+
+node ./moduleResolver.js
